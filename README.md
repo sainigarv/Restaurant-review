@@ -32,7 +32,6 @@ Check out the live version here:
 
 ## 📷 Screenshots
 
-![Screenshot 2025-07-09 114934](https://github.com/user-attachments/assets/6c61a4be-6368-46f6-8971-6d65827d8e0c)
 ![Screenshot 2025-07-09 114934](https://github.com/user-attachments/assets/3a3431c0-37dd-4019-bb50-72e4d79fc7e4)
 ![Screenshot 2025-07-09 114922](https://github.com/user-attachments/assets/a356e671-4974-4f8a-88c6-0df43126a1b6)
 ![Screenshot 2025-07-09 114908](https://github.com/user-attachments/assets/04dbe072-9cd5-4937-9653-005b8cc43239)
@@ -47,5 +46,27 @@ To run this project locally:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/restaurant-review.git
+git clone https://github.com/sainigarv/restaurant-review.git
 cd restaurant-review
+```
+2. Install dependencies:
+```
+npm install
+# or
+yarn install
+
+```
+3. Start the development server:
+```
+npm run dev
+# or
+yarn dev
+
+```
+
+
+📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+🙋‍♂️ Author
+GARV SAINI
